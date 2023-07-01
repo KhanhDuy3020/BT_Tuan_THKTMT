@@ -29,3 +29,36 @@
 <p> Assignment 6: Tạo biến và truy vấn biến<br>
   Tìm hiểu lệnh <b>la</b> và thực hiện tạo biến và truy vấn.
 </p>
+
+## WEEK 3 : Load/ Store , Jump & Branch instructions
+<p> Assignmet 1: If-then-else.<br>
+  Lập trình các câu lệnh if-then-else. Quan sát các thanh ghi và nêu hiện tượng.
+</p>
+
+<p> Assignmet 2: For.<br>
+  Lập trình vòng lặp for. Quan sát các thanh ghi và nêu hiện tượng.
+</p>
+
+<p> Assignment 3: Switch-case.<br>
+  Lập trình switch-case. Quan sát các thanh ghi và nêu hiện tượng.
+</p>
+
+<p> Assignment 4: Chạy lại Assignment 1 với các trường hợp<br>
+a.i&lt;j
+b.i&gt;=j 
+c.i+j&lt;=0 
+d.i+j&gt;m+n
+</p>
+
+<p> Assignment 5: Chạy lại Assignment 2 với các trường hợp<br>
+a. i&lt;n
+b. i&lt;=n
+c. sum &gt;=0
+d. A[i]==0
+</p>
+
+<p> Assignment 6: Find the element with the largest absolute value in a list of integers<br>
+  B1: Gán một thanh ghi max = 0
+  B2: So sánh từng phần tử với 0. Nếu < 0 thì lấy 0 trừ giá trị đó để lấy giá trị tuyệt đối. Nếu lớn hơn 0 giữ nguyên.
+  B3: So sánh giá trị đó với max. Nếu lớn hơn max cập nhật giá trị của max.
+</p>
